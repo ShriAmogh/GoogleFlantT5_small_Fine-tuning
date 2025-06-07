@@ -1,4 +1,4 @@
-# Qwen2.5-1.5B_Fine-tuning
+# GoogleFlantT5_small_Fine-tuning (on local machine)
 
 Dataset --> kagglehub.dataset_download("awsaf49/math-dataset")
                 
